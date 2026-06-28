@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Smart Task Tracker featuring statistics dashboard, filters, categories, and dynamic live updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
